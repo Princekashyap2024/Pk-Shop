@@ -75,7 +75,7 @@ We welcome contributions to enhance the features and improve the performance of 
 
 ## Contact
 
-For any questions or inquiries, please open an issue or contact us at [your-email@example.com](amitkumarraikwar92@gmail.com).
+For any questions or inquiries, please open an issue or contact us at [amitkumarraikwar92@gmail.com](amitkumarraikwar92@gmail.com).
 
 ---
 
